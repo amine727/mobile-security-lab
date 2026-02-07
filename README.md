@@ -25,6 +25,8 @@ Mettre en place un environnement de test pour la sécurité des applications mob
 ## Étape 7 – Démarrage du système Android sur l’émulateur
 ![Écran d’accueil Android sur Genymotion](screenshots/7.png)
 ## Étape 8 – Informations du terminal Android sur Genymotion
-![ADB Information](screenshots/screenshots/8.png)
+![ADB Information](screenshots/8.png)
 ## Étape 9 – Connexion ADB réussie entre Mobexler et le terminal Genymotion
-![ADB Connection](screenshots/screenshots/9.png)
+![ADB Connection](screenshots/9.png)
+## Conclusion
+Ce premier lab m'a permis de mettre en place un environnement fonctionnel pour l’analyse de la sécurité des applications mobiles en utilisant Mobexler et Genymotion. La configuration réseau ainsi que la connexion ADB entre la machine d’analyse et l’émulateur Android ont été validées avec succès. 
